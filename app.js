@@ -21,7 +21,7 @@ function mostrarTexto(tag, texto) {
 
 // fizemos uma funcao para a mensagem para nao ficar repetitivo
 function exibirMensagem(){
-    mostrarTexto('h1','jogo do numero secreto');
+    mostrarTexto('h1','jogo da nina');
     mostrarTexto('p', 'Escolha um numero entre 1 e 10');
 
 }
